@@ -1,0 +1,16 @@
+when user click on a button action open a list of stored data inside that said selected language
+
+and then from that language when user click on anything it open in a different page :D
+
+
+
+
+SQL:
+dbname="mylibrary"
+table1 name="langs"
+  coloumn id=unique
+  coloumn langs="name of langs"
+
+table2 name="langs_php" replace php for a specific lang name
+  coloumn id=unique
+  coloumn snippet="what is written in html hopefully"
